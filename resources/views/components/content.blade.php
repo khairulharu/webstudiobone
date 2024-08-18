@@ -1,28 +1,8 @@
-{{-- <div class="py-10 text-white relative isolate overflow-hidden">
-    <svg viewBox="0 0 1024 1024"
-    class="absolute left-1/2 top-1/2 -z-10 h-[64rem] w-[64rem] -translate-y-1/2 [mask-image:radial-gradient(closest-side,white,transparent)] sm:left-full sm:-ml-80 lg:left-1/2 lg:ml-0 lg:-translate-x-1/2 lg:translate-y-0"
-    aria-hidden="true">
-    <circle cx="512" cy="512" r="512" fill="url(#759c1415-0410-454c-8f7c-9a820de03641)"
-        fill-opacity="0.7" />
-    <defs>
-        <radialGradient id="759c1415-0410-454c-8f7c-9a820de03641">
-            <stop stop-color="#7775D6" />
-            <stop offset="1" stop-color="#E935C1" />
-        </radialGradient>
-    </defs>
-</svg>
-    <p>Jasa Pembuatan Website</p>
-    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam quidem facilis suscipit, nostrum, quaerat delectus dignissimos eum perferendis sed nemo maxime earum. Corporis sunt molestias exercitationem explicabo quae, aliquid fugit.</p>
-    <br>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati magnam at velit repudiandae vel suscipit hic consectetur veritatis illum eaque, cumque possimus commodi laboriosam asperiores consequatur quidem aperiam voluptas deserunt.
-    <br>
-</div> --}}
-
 <section class="bg-gray-900">
     <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
         <div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-12">
-            <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-white">Designed for business teams like yours</h2>
-            <p class="mb-5 font-light sm:text-xl text-gray-400">Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.</p>
+            <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-white">Hubungi kami sekarang dan dapatkan penawaran spesial!</h2>
+            <p class="mb-5 font-light sm:text-xl text-gray-400">Mulai Perjalanan digitalmu hari ini dengan layanan pembuatan website profesional, mencakup semua lini bisnis mulai dari website UMKM, POC, management produk, semua kami tangani.</p>
         </div>
         <div class="space-y-8 lg:grid lg:grid-cols-3 sm:gap-6 xl:gap-10 lg:space-y-0">
             <!-- Pricing Card -->
