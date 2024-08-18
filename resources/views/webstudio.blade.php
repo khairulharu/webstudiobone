@@ -14,6 +14,7 @@
         <x-navbar></x-navbar>
         <x-header></x-header>
         <x-content></x-content>
+        <x-contact></x-contact>
     </x-layout>
 </body>
 
