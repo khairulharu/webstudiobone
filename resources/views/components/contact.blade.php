@@ -15,7 +15,7 @@
                 <label for="message" class="block mb-2 text-sm font-medium text-gray-400">Your message</label>
                 <textarea id="message" rows="6" class="block p-2.5 w-full text-sm text-white rounded-lg shadow-sm border  bg-gray-700  placeholder-gray-400 focus:ring-primary-500 focus:border-primary-500" placeholder="Leave a comment..."></textarea>
             </div>
-            <button type="submit" class="py-3 px-5 text-sm font-medium text-center text-white rounded-lg bg-primary-600 sm:w-fit hover:bg-primary-700 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">Send message</button>
+            <button type="submit" class="py-3 px-5 text-sm font-medium text-center text-white rounded-lg sm:w-fit focus:ring-4 focus:outline-none bg-primary-600 hover:bg-primary-700 focus:ring-primary-300">Send message</button>
         </form>
     </div>
   </section>
