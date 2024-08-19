@@ -15,6 +15,7 @@
         <x-header></x-header>
         <x-content></x-content>
         <x-contact></x-contact>
+        <x-footer></x-footer>
     </x-layout>
 </body>
 
