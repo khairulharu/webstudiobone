@@ -1,0 +1,1 @@
+{{-- tambahkan footerr untuk kontak wa dan instagram dan juga copyrigth website dan berikan gambar ungu seperti di component header --}}
