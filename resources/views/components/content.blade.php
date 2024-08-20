@@ -2,7 +2,7 @@
     <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
         <div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-12">
             <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-white">Hubungi kami sekarang dan dapatkan penawaran spesial!</h2>
-            <p class="mb-5 font-light sm:text-xl text-gray-400">Mulai Perjalanan digitalmu hari ini dengan layanan pembuatan website profesional, Mencakup semua lini bisnis, Mulai dari website UMKM, POS, Management produk, Semua kami tangani, Tersedia Paket Harga Mulai Dari.</p>
+            <p class="mb-5 font-light sm:text-xl text-gray-400">Mulai Perjalanan digitalmu hari ini dengan layanan pembuatan website profesional, Mencakup semua lini bisnis, Mulai dari website UMKM, POS, Management produk, Semua kami tangani, Tersedia Paket Harga, Mulai Dari.</p>
         </div>
         <div class="space-y-8 lg:grid lg:grid-cols-3 sm:gap-6 xl:gap-10 lg:space-y-0">
             <!-- Pricing Card -->
